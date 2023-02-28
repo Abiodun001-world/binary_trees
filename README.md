@@ -4,5 +4,5 @@ k=2 tree data structure in which each node has at most two children, which are r
 
 From a graph theory perspective, binary (and K-ary) trees as defined here are arborescences.A binary tree may thus be also called a bifurcating arborescence—a term which appears in some very old programming books,before the modern computer science terminology prevailed. It is also possible to interpret a binary tree as an undirected, rather than a directed graph, in which case a binary tree is an ordered, rooted tree.Some authors use rooted binary tree instead of binary tree to emphasize the fact that the tree is rooted, but as defined above, a binary tree is always rooted.A binary tree is a special case of an ordered K-ary tree, where K is 2.
 
-Sources: <a href ="https://en.wikipedia.org/wiki/Binary_tree">Binary tree</a>
+Source: <a href ="https://en.wikipedia.org/wiki/Binary_tree">Binary tree</a>
 
